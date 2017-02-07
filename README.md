@@ -1,0 +1,2 @@
+# NewSnazzyProject
+My new project
